@@ -15,7 +15,9 @@ public class Mensaje3 {
      */
     public static void main(String[] args) {
         int a=10;
-        System.out.println("El valor es:"+a);
+        int b =5;
+        System.out.println("El valor de A es:"+a);
+        System.out.println("El valor de la variable 2 es :"+b);
         
     }
     
