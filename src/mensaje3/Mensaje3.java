@@ -21,6 +21,7 @@ public class Mensaje3 {
         System.out.println("El valor de la variable 2 es: "+b);
         c = a + b;
         System.out.println("El valor de la tercer variable  es: "+c);
+        System.out.println("Hola");
     }
     
 }
